@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Hans Molina 👋
 
-<!--
-**Dhartharis/Dhartharis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Senior Backend Engineer | .NET & Cloud Architectures
+Based in Vietnam 🇻🇳 (Global Remote)
 
-Here are some ideas to get you started:
+- 🚀 Currently specializing in **Scalable Microservices** and **Cloud-Native Solutions**.
+- 🛠️ Expert in **.NET 8/7/6**, **C#**, and **AWS (ECS, ECR, RDS)**.
+- 🏗️ Deep focus on **Clean Architecture**, **SOLID**, and **Design Patterns**.
+- ⚛️ Also working with **React.js** for full-stack internal tooling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+- **Backend:** .NET Core, ASP.NET Web API, EF Core, SQL Server, PostgreSQL.
+- **Cloud/DevOps:** AWS, Docker, GitHub Actions, CI/CD.
+- **Frontend:** React.js, JavaScript (ES6+).
+- **Testing:** xUnit, NUnit, TDD.
+
+---
+
+### 📈 GitHub Stats
+![Hans's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhartharis&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhartharis&layout=compact&theme=radical)
+
+[LinkedIn](https://linkedin.com/in/hansmolinafleming) | [Email](mailto:hansmolina989@gmail.com)
