@@ -1,7 +1,7 @@
 # Hi, I'm Hans Molina 👋
 
 ### Senior Backend Engineer | .NET & Cloud Architectures
-Based in Vietnam 🇻🇳 (Global Remote)
+Global Remote
 
 - 🚀 Currently specializing in **Scalable Microservices** and **Cloud-Native Solutions**.
 - 🛠️ Expert in **.NET 8/7/6**, **C#**, and **AWS (ECS, ECR, RDS)**.
